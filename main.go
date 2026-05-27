@@ -1,4 +1,4 @@
-package main
+package main //это функция
 
 import (
 	"fmt"
